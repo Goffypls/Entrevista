@@ -1,0 +1,8 @@
+C:\Users\MARIANO\source\repos\Seccion2\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\MARIANO\source\repos\Seccion2\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\MARIANO\source\repos\Seccion2\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\MARIANO\source\repos\Seccion2\ReverseString\obj\Debug\ReverseString.csproj.AssemblyReference.cache
+C:\Users\MARIANO\source\repos\Seccion2\ReverseString\obj\Debug\ReverseString.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIANO\source\repos\Seccion2\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\MARIANO\source\repos\Seccion2\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\MARIANO\source\repos\Seccion2\ReverseString\obj\Debug\ReverseString.pdb
