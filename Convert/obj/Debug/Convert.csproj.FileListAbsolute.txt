@@ -1,0 +1,8 @@
+C:\Users\MARIANO\source\repos\Seccion2\Convert\bin\Debug\Convert.exe.config
+C:\Users\MARIANO\source\repos\Seccion2\Convert\bin\Debug\Convert.exe
+C:\Users\MARIANO\source\repos\Seccion2\Convert\bin\Debug\Convert.pdb
+C:\Users\MARIANO\source\repos\Seccion2\Convert\obj\Debug\Convert.csproj.AssemblyReference.cache
+C:\Users\MARIANO\source\repos\Seccion2\Convert\obj\Debug\Convert.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIANO\source\repos\Seccion2\Convert\obj\Debug\Convert.csproj.CoreCompileInputs.cache
+C:\Users\MARIANO\source\repos\Seccion2\Convert\obj\Debug\Convert.exe
+C:\Users\MARIANO\source\repos\Seccion2\Convert\obj\Debug\Convert.pdb

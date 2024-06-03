@@ -1,0 +1,8 @@
+C:\Users\MARIANO\source\repos\Seccion2\MetodoReadLine\obj\Debug\MetodoReadLine.csproj.AssemblyReference.cache
+C:\Users\MARIANO\source\repos\Seccion2\MetodoReadLine\obj\Debug\MetodoReadLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIANO\source\repos\Seccion2\MetodoReadLine\obj\Debug\MetodoReadLine.csproj.CoreCompileInputs.cache
+C:\Users\MARIANO\source\repos\Seccion2\MetodoReadLine\bin\Debug\MetodoReadLine.exe.config
+C:\Users\MARIANO\source\repos\Seccion2\MetodoReadLine\bin\Debug\MetodoReadLine.exe
+C:\Users\MARIANO\source\repos\Seccion2\MetodoReadLine\bin\Debug\MetodoReadLine.pdb
+C:\Users\MARIANO\source\repos\Seccion2\MetodoReadLine\obj\Debug\MetodoReadLine.exe
+C:\Users\MARIANO\source\repos\Seccion2\MetodoReadLine\obj\Debug\MetodoReadLine.pdb
