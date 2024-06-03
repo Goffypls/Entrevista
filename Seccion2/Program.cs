@@ -40,6 +40,10 @@ namespace Seccion2 /*Nombre del Espacio Seccion2*/
 
             /*PONER M AL FINAL PARA QUE EL COMPILADOR TOME UN FLOAT EN VEZ DE DOUBLE*/
             float promedioFloat = 8.5F;
+
+            /*SUBO DATOS PARA FIRST PULL GIT*/
+            int test = 0;
+            int test2 = 0;
         }
     }
 }
